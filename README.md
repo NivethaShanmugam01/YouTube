@@ -8,13 +8,12 @@ Create a Streamlit application that allows users to access and analyze data from
 
 ## Skills used
 - Python scripting
+- - API integration
 - Data collection
-- MongoDB
+- MongoDB (Atlas)
 - Streamlit
-- API integration
-- Data management using MongoDB (Atlas)
 - SQL
-- 
+  
 ## Approach
 1. Set up a Streamlit app for a user-friendly interface.
 2. Connect to the YouTube API to retrieve channel and video data.
