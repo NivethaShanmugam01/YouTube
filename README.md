@@ -8,7 +8,7 @@ Create a Streamlit application that allows users to access and analyze data from
 
 ## Skills used
 - Python scripting
-- - API integration
+- API integration
 - Data collection
 - MongoDB (Atlas)
 - Streamlit
