@@ -12,7 +12,7 @@ Create a Streamlit application that allows users to access and analyze data from
 - Data collection
 - MongoDB (Atlas)
 - Streamlit
-- SQL
+- postgreSQL
   
 ## Approach
 1. Set up a Streamlit app for a user-friendly interface.
